@@ -1,0 +1,15 @@
+token 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
+pwd / imprime directorio
+ls / imprime archivos
+mkdir nombre / crea carpeta
+cd nombre / ir al directorio
+touch nombre.extension / crea archivo
+rm nombre.extension / borra archivo
+rm -r nombre / borra carpeta
+
+git init / comando para inicializar un repositorio local.
+git add / comando para añadir archivo al repositorio
+git commit -m "que cambios" / almacena cambios
+git push / todo al remoto
+git status / estado archivos
+git pull / recibir cambios de remoto a local
